@@ -1,0 +1,11 @@
+﻿1>------ Build started: Project: TesteDrive.Android, Configuration: Debug Any CPU ------
+2>------ Skipped Build: Project: TesteDrive.iOS, Configuration: Debug iPhone ------
+2>Project not selected to build for this solution configuration 
+1>  TesteDrive.Android -> C:\Users\senac\Documents\Visual Studio 2015\Projects\TesteDrive\TesteDrive\TesteDrive.Android\bin\Debug\TesteDrive.Android.dll
+1>C:\Users\senac\Documents\Visual Studio 2015\Projects\TesteDrive\TesteDrive\TesteDrive.Android\TesteDrive.Android.csproj : warning XA0105: The $(TargetFrameworkVersion) for FormsViewGroup.dll (v7.1) is greater than the $(TargetFrameworkVersion) for your project (v6.0). You need to increase the $(TargetFrameworkVersion) for your project.
+1>C:\Users\senac\Documents\Visual Studio 2015\Projects\TesteDrive\TesteDrive\TesteDrive.Android\TesteDrive.Android.csproj : warning XA0105: The $(TargetFrameworkVersion) for Xamarin.Forms.Platform.Android.dll (v7.1) is greater than the $(TargetFrameworkVersion) for your project (v6.0). You need to increase the $(TargetFrameworkVersion) for your project.
+1>C:\Users\senac\Documents\Visual Studio 2015\Projects\TesteDrive\TesteDrive\TesteDrive.Android\TesteDrive.Android.csproj : warning XA0105: The $(TargetFrameworkVersion) for Xamarin.Forms.Platform.dll (v7.1) is greater than the $(TargetFrameworkVersion) for your project (v6.0). You need to increase the $(TargetFrameworkVersion) for your project.
+1>    Processing: obj\Debug\res\layout\tabbar.xml
+1>    Processing: obj\Debug\res\layout\toolbar.xml
+1>    Processing: obj\Debug\res\values\styles.xml
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 1 skipped ==========
